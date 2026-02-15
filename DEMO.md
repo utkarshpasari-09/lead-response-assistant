@@ -50,6 +50,6 @@ With more time, this could include:
 
 ## Screenshots
 
-![alt text](<Screenshot 2026-02-15 225206.png>)
-![alt text](<Screenshot 2026-02-15 225249.png>)
-![alt text](<Screenshot 2026-02-15 225441.png>)
+![Example 1](screenshot1.png)
+![Example 2](screenshot2.png)
+![Example 3](screenshot3.png)
